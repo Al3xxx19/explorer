@@ -131,6 +131,8 @@
 
     // Markets
     "poloniex": "Poloniex",
+    "graviex": "Graviex",
+    "cryptobridge": "Crypto-bridge",
     "bittrex": "Bittrex",
     "bleutrade": "Bleutrade",
     "yobit": "Yobit",
